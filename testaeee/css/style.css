@@ -1,0 +1,64 @@
+
+:root{
+    --color1: #6d7bfb;
+    --color2: #0d6efd;    
+}
+
+body{
+    background-image: url(../img/body.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+section, header{
+    margin-top: 100px;
+}
+
+
+.funny-skates{
+    background-color: var(--color2);
+    width: 90%;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.services .card-title{
+    background-color: var(--color2);
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.logo, .name{
+    background-color: var(--color2);
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+i{
+    font-size: 22px;
+    color: var(--color2);
+}
+
+.months{
+    font-size: 35px;
+}
+
+.team{
+    background-image: url(../img/background.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.form{
+    margin-bottom: 200px;
+}
+
+.infograph{
+    padding-left: 20px;
+    background-color:white;
+    border-radius: 10px;
+    width: 90%;
+}
